@@ -1,0 +1,1 @@
+gt ls -files --ignored --exclude-standard --others
